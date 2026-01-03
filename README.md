@@ -51,7 +51,7 @@ Features
 Installation
 ```bash
 git clone https://github.com/jinay-k-jain/Panic_detector_CCTV.git
-cd Panic_detector_CCTV/test3
+cd Panic_detector_CCTV/test_3
 pip install -r requirements.txt
 ```
 Run on Video File
